@@ -225,4 +225,4 @@ This project is distributed under the MIT License.
 
 ## Author
 
-Developed by **Achilles(AdeiltonKali)**.
+Developed by **Tyler(AdeiltonKali)**.
